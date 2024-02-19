@@ -9,9 +9,7 @@ function Contador() {
 
   return(
     <div>
-      <h1 className="titulo">Contador</h1>
-      <p>O valor é: {valorx}</p>
-      <button className="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded" onClick={somaClick}>Adicionar 1</button>
+      <p>Login</p>
     </div>
 
   )
